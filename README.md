@@ -9,3 +9,6 @@ If you use this dataset, please cite this reference:
 Landheer K, Gajdošík M, Treacy M, Juchem C. Concentration and effective T 2 relaxation times of macromolecules at 3T. Magn Reson Med. 2020 Nov;84(5):2327-2337. doi: 10.1002/mrm.28282. Epub 2020 May 19.
 
 Pubmed: https://pubmed.ncbi.nlm.nih.gov/32430928/
+
+INSPECTOR: http://innovation.columbia.edu/technologies/cu17130
+jMRUI: http://www.jmrui.eu/

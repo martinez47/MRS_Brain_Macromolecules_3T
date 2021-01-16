@@ -11,5 +11,6 @@ Landheer K, Gajdošík M, Treacy M, Juchem C. Concentration and effective T 2 re
 Pubmed: https://pubmed.ncbi.nlm.nih.gov/32430928/
 
 INSPECTOR: http://innovation.columbia.edu/technologies/cu17130
+
 jMRUI: http://www.jmrui.eu/
 
